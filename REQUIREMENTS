@@ -1,0 +1,5 @@
+# Requirements for Pixelith video export (dont touch)
+imageio
+imageio-ffmpeg
+numpy
+pillow
